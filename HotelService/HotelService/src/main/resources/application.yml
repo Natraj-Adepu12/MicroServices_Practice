@@ -1,0 +1,18 @@
+server:
+  port: 9093
+
+spring:
+  application:
+    name: HOTEL-SERVICE
+  config:
+    activate:
+      on-profile:
+  datasource:
+    password: naTraj@12
+    url: jdbc:postgresql://localhost:5432/microservices
+    username: postgres
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+

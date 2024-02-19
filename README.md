@@ -1,1 +1,1 @@
-created Hotel, User, and Rating micro services and implemeted Service-Registry eureka client server to track all the micro services status and implemeted micro services inter-communication using feigh client and REST Template
+Created Hotel, User, and Rating micro services and implemeted Service-Registry eureka client server to track all the micro services status and implemeted micro services inter-communication using feigh client and REST Template
